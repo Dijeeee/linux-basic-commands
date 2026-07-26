@@ -201,8 +201,8 @@ Dilarang menggunakan materi ini untuk aktivitas yang melanggar hukum.
 
 ## Author
 
-Nama: Dije Jato
+Nama: Nur Muhamad Dwi Jayanto
 
-Mahasiswa Informatika
+Mahasiswa Sistem Informasi
 
 Learning Cyber Security • Linux • Networking • Penetration Testing
